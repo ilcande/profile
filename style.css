@@ -148,7 +148,20 @@ i.fa:hover {
   font-size: 25px;
   color: #818181;
   display: block;
+  text-align: center;
   }
+
+#summary {
+  padding: 40px;
+}
+
+#favorite-movies {
+  padding: 40px;
+}
+
+#help {
+  padding: 40px;
+}
 /*
  When you mouse over the navigation links, change their color
 #sidebar a:hover {
